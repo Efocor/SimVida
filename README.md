@@ -1,6 +1,6 @@
 # Simulador de Vida Artificial
 
-Este proyecto es un simulador básico de vida artificial desarrollado en C# utilizando WPF (Windows Presentation Foundation). El simulador permite crear un entorno dinámico donde criaturas virtuales interactúan con su entorno, consumen recursos, se reproducen y evolucionan a lo largo del tiempo. El objetivo es observar cómo estas criaturas se adaptan y evolucionan en un entorno simulado.
+Este proyecto es un simulador básico de vida artificial desarrollado en C# utilizando WPF (Windows Presentation Foundation). El simulador permite crear un entorno dinámico donde criaturas virtuales interactúan con su entorno, consumen recursos, se reproducen y evolucionan a lo largo del tiempo. El objetivo es observar cómo estas criaturas se adaptan y evolucionan en un entorno simulado. Se juega con grid coloreados y representaciones de vida con figuras a las que se enlazan ciertas variables.
 
 ## Características principales
 
